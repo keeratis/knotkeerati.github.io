@@ -30,9 +30,9 @@ class App extends Component {
 
     return (
       <div className="App">
-        <header className="App-header">
+        <div className="App-header">
           <h1>Knot's TODO_LIST</h1>
-        </header>
+        </div>
         <Form className="addtodo" onSubmit={addList}>
           <InputGroup className="submit">
             <Input
