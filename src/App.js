@@ -31,11 +31,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-<<<<<<< HEAD
-          <h1>Knot TODO_LIST</h1>
-=======
           <h1> Knot TODO_LIST</h1>
->>>>>>> 06b5955f4dc1c6311dd0acaea9681c508fceb2a0
         </div>
         <Form className=".col-6 .col-sm-4 submit" onSubmit={addList}>
           <InputGroup>
