@@ -1,0 +1,36 @@
+.App {
+  font-size: 30px;
+}
+.App-header {
+  background-color: #fb607f;
+  height: 100px;
+  padding: 50px;
+  color: #ffffff;
+  position: relative;
+}
+.App-header h1 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.todoList {
+  margin-left: 45%;
+}
+/* .addtodo {
+  text-align: center;
+  padding-top: 20px;
+} */
+input[type="text"] {
+  font-size: 25px;
+  font-family: "Gloria Hallelujah", cursive;
+}
+.submit {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30%;
+  padding-right: 30%;
+}
